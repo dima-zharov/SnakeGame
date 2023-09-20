@@ -46,7 +46,7 @@ namespace SnakeGame
             int parts = 2;
 
             string text = "Нажмите любую стрелку чтобы начать! || Очки: ";
-            int score = 24;
+            int score = 0;
 
 
             while (true)
